@@ -13,6 +13,8 @@
 
 Settings可以支持5个Type，分别是Multi Value、Slider、TextField、Title、Toggle Switch，期中Slider、TextField这两种类型比较少用，也可以用其他三种代替。下面是Demo中的配置：
 
+![shortcut1](SnapShot/snapshot.png)
+
 ```
 		<dict>
 			<key>Type</key>
